@@ -1,4 +1,4 @@
-# 🚜 Heavy-Duty Tractor PTO Wood Chipper
+# Heavy-Duty Tractor PTO Wood Chipper
 
 [![Engineering](https://img.shields.io/badge/Mechanical-Engineering-blue.svg)](#)
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks_2024-red.svg)](#)
